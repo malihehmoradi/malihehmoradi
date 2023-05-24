@@ -98,9 +98,10 @@
         />
     </a> -->
     <a href="https://www.buymeacoffee.com/malihemoradi" target="_blank" style="display: inline-block;">
-        <img
-            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-            align="center"
-        />
-    </a></div>
+      <img
+           src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=malihemoradi&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"
+           align="center"
+           />
+    </a>
+</div>
 <br />
