@@ -1,2 +1,106 @@
-A developer with more than 6 years of hands-on experience in building Android applications. I have experience in solution providing, architecture, and team support.
+<div align="center">
+<img src="https://github.com/youssefjoundi/youssefjoundi/blob/master/image.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+### <div align="center">Hi 👋, I'm Malihe Moradi</div>  
+<h3 align="center">A passionate Mobile Developer From Iran</h3> 
+
+- 🔭 I’m currently working on [Android-Aniro-App](https://github.com/malihemoradi/aniro)  
+  
+
+- 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)  
+  
+
+- ❓ Ask me about anything related to Modern Android Developement  
+ 
+- 📫 How to reach me **m.moradi.ps@gmail.com**
+  
+
+<br/>  
+
+
+## My Skill Set  
+ 
+<div align="center">  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>   
+<a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Nodejs" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+</div>
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/malihemoradi" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://g.dev/malihe" target="_blank">
+<img src=https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/youssefjoundi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<!-- <a href="https://www.facebook.com/youssefjoundi98" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a> -->
+<a href="https://instagram.com/maliheh_moraadi" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<!-- <a href="https://stackoverflow.com/users/youssef-joundi" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a> -->
+<a href="https://dribbble.com/maliheh_moradi" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>
+<!-- <a href="https://www.behance.net/Behance" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a> -->
+<!-- <a href="https://medium.com/Medium" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a> -->
+<!-- <a href="https://www.youtube.com/user/Youtube" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>   -->
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=malihemoradi&show_icons=true&count_private=true&hide_border=false" align="left" />
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjoundi&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+  </div>
+<br/>
+
+<!-- ## Projects
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=malihemoradi&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+<br/> -->
+
+
+
+<div align="center">
+<!--     <a href="https://paypal.me/youssefjoundi?country.x=MA&locale.x=fr_XC" target="_blank" style="display: inline-block;">
+        <img
+            src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+            align="center"
+        />
+    </a> -->
+    <a href="https://www.buymeacoffee.com/malihemoradi" target="_blank" style="display: inline-block;">
+        <img
+            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+            align="center"
+        />
+    </a></div>
+<br />
