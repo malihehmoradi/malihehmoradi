@@ -6,15 +6,15 @@
 ### <div align="center">Hi 👋, I'm Malihe Moradi</div>  
 <h3 align="center">A passionate Mobile Developer From Iran</h3> 
 
-- 🔭 I’m currently working on [Android-Aniro-App](https://github.com/malihemoradi/aniro)  
-  
+- 🔭 I’m currently working on [Android-Aniro-App](https://github.com/malihemoradi/aniro)
 
-- 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)  
-  
+- 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)
 
-- ❓ Ask me about anything related to Modern Android Developement  
- 
+- ❓ Ask me about anything related to Modern Android Developement
+
 - 📫 How to reach me **m.moradi.ps@gmail.com**
+
+- 📃 You can see **[My Resume](assets/MaliheMoradi_AndroidDeveloper_Resume10.pdf)**
   
 
 <br/>  
