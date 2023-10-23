@@ -35,13 +35,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/malihemoradi" target="_blank">
+<a href="https://github.com/malihehmoradi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://g.dev/malihe" target="_blank">
 <img src=https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/malihemoradi" target="_blank">
+<a href="https://www.linkedin.com/in/malihehmoradi" target="_blank">
 <img src=drawable/linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <!-- <a href="https://www.facebook.com/malihemoradi" target="_blank">
